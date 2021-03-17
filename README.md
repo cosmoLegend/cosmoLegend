@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cosmoLegend
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning JavaScript Coding, And Science
+- 📫 How to reach me - kabeer.uppal@gmail.com
